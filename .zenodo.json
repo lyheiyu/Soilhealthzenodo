@@ -1,0 +1,10 @@
+{
+  "title": "SOILCRATES Soil Health Dataset",
+  "creators": [
+    {"name": "Xinyu Yan", "affiliation": "Technological University of the Shannon"}
+  ],
+  "description": "A dataset and toolkit for soil health analysis and monitoring under the SOILCRATES project.",
+  "keywords": ["soil health", "FTIR", "Ireland", "ISO28258"],
+  "license": "CC-BY-4.0",
+  "version": "1.0.0"
+}
