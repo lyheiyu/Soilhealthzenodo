@@ -4,7 +4,7 @@
     {
       "name": "Xinyu Yan",
       "affiliation": "Technological University of the Shannon, Software Research Institute",
-      "orcid": "0000-0000-0000-0000"
+   
     }
   ],
   "description": "This dataset contains soil profile data, FTIR spectra, and soil health indicators collected in Athlone, Ireland, under the SOILCRATES project. It follows the ISO 28258 soil data model and maps to INSPIRE and GloSIS codelists for FAIR data interoperability. Data include carbon, nitrogen, moisture, and pH attributes, with metadata for soil site and plot identifiers.",
