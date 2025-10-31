@@ -33,10 +33,5 @@
     ],
     "license": "CC-BY-4.0",
     "upload_type": "dataset",
-    "language": "eng",
-    "grants": [
-        {
-            "id": "10.13039/501100000780::101123456"
-        }
-    ]
+    "language": "eng"
 }
